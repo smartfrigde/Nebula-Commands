@@ -46,7 +46,7 @@
   },
   "devDependencies": {
     "@types/node": "^16.9.4",
-    "@types/puppeteer": "^5.4.4",
+    "@types/puppeteer": "^5.4.5",
     "@types/ws": "^7.4.7",
     "tsc-watch": "^4.5.0"
   }
