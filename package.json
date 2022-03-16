@@ -41,7 +41,7 @@
     "onion-lasers-v13": "^2.0.0",
     "path": "^0.12.7",
     "pet-pet-gif": "^1.0.9",
-    "prettier": "^2.4.1",
+    "prettier": "^2.6.0",
     "typescript": "^4.4.3"
   },
   "devDependencies": {
